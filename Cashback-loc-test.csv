@@ -1,0 +1,4 @@
+Untitled spreadsheet - Sheet1 (3),,,,,,,,,,,,,,
+cashback_id,merchant_id,withdrawal_id,x_account_number,currency,amount,payout_mode,contact_type,fund_account_number,fund_account_ifsc,fund_account_name,fund_account_type,contact_name,payout_purpose,payout_narration
+,FWy6pLGUmm8G7K,Jea0lScwyhjhj1,4564565843343443,INR,88565,NEFT,vendor,4860200001149,BARB0DBMARG,Test Test,bank_account,JONA FEEDS,cashback,Razorpay Cashback
+,F1ngSXpiQ1jYKa,JerZTMbiPqP8Kw,4564565843343443,INR,45685,NEFT,vendor,5063300003890,YESB0000050,SKILLTEX INDIA,bank_account,SKILLTEX INDIA,cashback,Razorpay Cashback
